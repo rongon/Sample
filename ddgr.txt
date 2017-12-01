@@ -1,0 +1,23 @@
+When we showed you how to search Google from the command line a lot of you to say you use Duck Duck Go, 
+the awesome privacy-focused search engine.
+コマンドラインからGoogle検索する方法を教えてくれたとき、多くの人が素晴らしいプライバシーにフォーカスしたDuck Duck Goを使用すると教えて言っていました。
+
+Well, now there’s a tool to search DuckDuckGo from the command line.
+さて、コマンドラインからDuckDuckGoを検索するツールがあります。
+
+It’s called ddgr and it’s pretty neat.
+それはddgrと呼ばれていて、とてもきちんとしています。
+pronounced, in my head, as dodger
+私の頭の中ではドーザーと発音されています
+
+Like Googler, ddgr is totally open-source and totally unofficial.
+Googlerのようにddgrは完全にオープンソースで、完全にアンオフィシャルです。
+
+Yup, the app is unaffiliated with DuckDuckGo in any way.
+うん、アプリはDuckDuckGoとは何の関係もない。
+
+So, should it start returning unsavoury search results for innocent terms,
+make sure you quack in this dev’s direction, and not the search engine’s!
+だから、無邪気な言葉のために不自然な検索結果を返すようになったら、
+検索エンジンではなく、このデベロッパーの方向性を突き刺すようにしてください！
+
